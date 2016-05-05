@@ -4,6 +4,10 @@ h1,h2,h3,h4,h5,h6
 		font-weight: 300;
 	}
 
+img {
+    float: left;
+    margin: 0 0 10px 10px;
+}
 ul {
     list-style-type: none;
     font-weight: 200;
